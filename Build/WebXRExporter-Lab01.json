@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "New Unity Project - WebXR - Lab-01",
+"productVersion": "0.1",
+"dataUrl": "WebXRExporter-Lab01.data.unityweb",
+"wasmCodeUrl": "WebXRExporter-Lab01.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebXRExporter-Lab01.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.15f1"
+}
